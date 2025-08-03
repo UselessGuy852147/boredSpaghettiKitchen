@@ -155,7 +155,7 @@ function functionLoops() {
   
 function endItAll() {// This will end the universe... Scary stuff.  
     if (!abcdefghijklmnopqrstuvwxyz.includes(34) &&   braunCelLs === 2 && nulls_cousin === 42 && nAn === null) {// This is a uselessly useful comment.  
-// Tea and Biscuits are good, mate.  
+// I like trains! 
     if (tHiSvArIaBlEsNaMeIsAlTeRnAtInG !== "camelCase" && thisvariablehasnocasinfforitsname !== 'Camel')// I case.  
     //BFG-9000  
                                                   
@@ -189,7 +189,8 @@ function endItAll() {// This will end the universe... Scary stuff.
   
   
   
-  
+
+
   
   
 // This is the last comment.   
